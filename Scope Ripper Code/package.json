@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "xml-writer": "^1.7.0"
+  }
+}
